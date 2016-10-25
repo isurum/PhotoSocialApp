@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "665968314344",
+    "firebase_url": "https://photo-social.firebaseio.com",
+    "project_id": "photo-social",
+    "storage_bucket": "photo-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665968314344:android:3f5aec25901ca989",
+        "android_client_info": {
+          "package_name": "uk.co.stableweb.photosocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665968314344-iclevv5c4ai34lau7p7e8ii9jh3eoblv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCy7Lq52JgG74sArcSAPQ35k_F63TD3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

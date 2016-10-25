@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Photo Social</string>
+    <string name="register_activity_name">Register</string>
+    <string name="post_image_activity_name">Upload</string>
+    <string name="reset_password_activity_name">Reset Password</string>
+    <string name="login_activity_name">Login</string>
+
+    <string name="add_photo">Add Photo</string>
+    <string name="settings">Settings</string>
+    <string name="logout_menu">Log Out</string>
+    <string name="submit_btn_string">Submit</string>
+    <string name="profile_menu">Profile</string>
+    <string name="my_profile">My Profile</string>
+
+    <string name="btn_register">Register</string>
+    <string name="btn_forgot_password">Forgot Password?</string>
+    <string name="btn_link_to_login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+
+    <string name="btn_link_to_register">Not a member? Register now!</string>
+    <string name="btn_login">LOGIN</string>
+
+    <string name="auth_failed">Authentication failed, check email and password!</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">Enter the email to reset the password.</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="title_activity_single_post">Single Post</string>
+    <string name="title_activity_my_profile">My Profile</string>
+</resources>
